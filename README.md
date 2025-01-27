@@ -28,7 +28,7 @@
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://github.com/user-attachments/assets/a18e5301-eaf1-41fe-a743-6d005c1d7a77" alt="GitHub" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="96">
@@ -52,22 +52,18 @@
 </div>
 
 
-<div> <a href="https://github.com/TejasNarkhede" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasNarkhede&layout=compact&theme=nord" alt=TejasNarkhede />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasNarkhede&show_icons=true&locale=en&theme=nord" alt="TejasNarkhede" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejasNarkhede&theme=nord" alt="TejasNarkhede" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+ 
 <div align="center">
-<a href="https://github.com/TejasNarkhede">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TejasNarkhede&theme=nord_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TejasNarkhede&theme=nord_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejasNarkhede&theme=nord_dark" height="180em" />
+  <h2> GitHub Stats </h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasNarkhede&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasNarkhede&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasNarkhede&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tejas-narkhede-853609273) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9QVhaSFC) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TejasSNarkhede)
+
+
+<div align="center">
+  <h3> Top Contributed Repo </h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=TejasNarkhede&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
