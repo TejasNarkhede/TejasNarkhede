@@ -40,8 +40,8 @@
         <br>MongoDB
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-        <br>Node.js
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+        <br>MySQL
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
@@ -55,15 +55,15 @@
  
 <div align="center">
   <h2> GitHub Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasNarkhede&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasNarkhede&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasNarkhede&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasNarkhede&theme=prussian&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasNarkhede&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" /><br/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasNarkhede&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 
 <div align="center">
   <h3> Top Contributed Repo </h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=TejasNarkhede&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=TejasNarkhede&limit=5&theme=prussian&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
